@@ -1,6 +1,6 @@
 ![Coral Lab logo](https://github.com/UMBC-Coral-Lab/.github/blob/main/coral-lab-high-resolution-logo-color-on-transparent-background.png)
 
-# UMBC's Cognition, Robotics, and Learning (Coral) Lab.
+# UMBC's Cognition, Robotics, and Learning (Coral) Lab
 
 ## Principal Investigator
  1. [Dr. Tim Oates](https://www.linkedin.com/in/tim-oates-78a92/)
