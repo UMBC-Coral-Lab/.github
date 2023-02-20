@@ -1,4 +1,4 @@
-![Coral Lab logo](coral-lab-high-resolution-logo-color-on-transparent-background.png)
+![Coral Lab logo](https://github.com/UMBC-Coral-Lab/.github/blob/main/coral-lab-high-resolution-logo-color-on-transparent-background.png)
 
 # UMBC's Cognition, Robotics, and Learning (Coral) Lab.
 
