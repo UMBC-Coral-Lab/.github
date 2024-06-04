@@ -11,8 +11,8 @@
  1. [Abhishikta Bandyopadhyay](https://www.linkedin.com/in/abhishikta-bandyopadhyay-471050191/)
  2. [Akash Vartak](https://www.linkedin.com/in/akash-vartak/)
  3. [Chi Zhang](https://www.linkedin.com/in/chi-zhang-7b91a173/)
- 4. [John Clemens](https://www.linkedin.com/in/clemej/)
- 5. [Khondoker Murad Hossain](https://www.linkedin.com/in/khondokerhossain)
+ 4. [Duong Ta](https://www.linkedin.com/in/duong-ta-16a631162/)
+ 5. [John Clemens](https://www.linkedin.com/in/clemej/)
  6. [Mohammad Mahmudul Alam](https://www.linkedin.com/in/mahmudul-alam/)
  7. Shalima Binta Manir
 
